@@ -577,10 +577,10 @@ a:visited {
     display: inline-block;
     padding: 0.5em 1em;
     text-decoration: none;
-    background: #668ad8;
+    background: #B2E2EC;
     color: #FFF;
     border-radius: 4px;
-    box-shadow: 0px 0px 0px 5px #668ad8;
+    box-shadow: 0px 0px 0px 5px #B2E2EC;
     border: dashed 1px #FFF;
 }
 
