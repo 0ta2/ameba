@@ -587,3 +587,18 @@ a:visited {
 .square_btn:hover{
 	border: dotted 1px #FFF;
 }
+
+/*-------------------------------------------*/
+/* 追加 ボックスデザインCSS                  */
+/*-------------------------------------------*/
+.box14{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d6ebff;
+    box-shadow: 0px 0px 0px 10px #d6ebff;
+    border: dashed 2px white;
+}
+.box14 p {
+    margin: 0;
+    padding: 0;
+}
